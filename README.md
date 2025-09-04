@@ -7,9 +7,9 @@ This documentation is for the 2025 release of Noisedeck.
 Docs for the original Noisedeck are archived at [https://github.com/noisedeck/noisedeck-docs](https://github.com/noisedeck/noisedeck-docs).
 
 ## Legal
-* [Noisedeck License](https://github.com/noisedeck/noisedeck2-docs/blob/main/legal/Noisedeck_EULA.pdf)
-* [Terms of Service](https://github.com/noisedeck/noisedeck2-docs/blob/main/legal/Terms_of_Service.pdf)
-* [Privacy Policy](https://github.com/noisedeck/noisedeck2-docs/blob/main/legal/Privacy_Policy.pdf)
+* [Noisedeck License](legal/Noisedeck_EULA.md)
+* [Terms of Service](legal/Terms_of_Service.md)
+* [Privacy Policy](legal/Privacy_Policy.md)
 
 ## Documentation
 * [Documentation wiki](https://github.com/noisedeck/noisedeck2-docs/wiki)
